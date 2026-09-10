@@ -1,0 +1,2 @@
+- [C. Sethia Website — Logo Display](csethia-logo-display.md) — mix-blend-mode:multiply on white bg panels makes all brand logos visible; stagger delay 0.18s×6 items caused last items to render at opacity:0 in screenshots.
+- [C. Sethia Website — Brand Data](csethia-brand-data.md) — productsData keyed by brand ID (SANT, Honeywell, HGuru, Resistoflex, SantAirSystem, Tyco); logo field required on BrandData interface; all logos live in /public/brand-logos/.

@@ -1,0 +1,147 @@
+Build a premium multi-page website for C. Sethia & Co., an industrial and HVAC distribution company based in Kolkata, India.
+
+This is a B2B informational website, not an e-commerce platform. The primary objective is to establish credibility, showcase our product portfolio and authorised brands, and generate business enquiries from procurement managers, EPC contractors, MEP consultants, builders, developers, hospitals, factories, and industrial facilities.
+
+The website should feel modern, premium, and highly professional while reflecting the trust, experience, and legacy of a company established in 1941.
+
+Take strong inspiration from the content flow, navigation, and product presentation of https://tritonprocess.com/, but create a completely original design that represents C. Sethia & Co.’s own identity.
+
+Please generate the entire website in one go, including all pages, layouts, content, navigation, imagery placement, and responsive design.
+
+Website Structure
+Home
+About Us
+Products
+Solutions
+Brands
+Contact
+Design Direction
+The website should have a clean, premium, corporate look with a strong industrial aesthetic.
+
+White background with blue accents and black text.
+Elegant, timeless typography.
+Spacious layouts with excellent visual hierarchy.
+Modern yet professional design that reflects an established engineering company.
+Subtle animations and interactions are acceptable, but they should remain minimal and professional.
+Product Information
+An Excel workbook will be provided and should be treated as the primary source of information.
+
+Please:
+
+Use the product list from the Excel workbook.
+Do not use the “Material Wise” sheet.
+Organise the products accurately under the following brands in this exact order:
+Sant
+Honeywell
+HGuru
+Resistoflex
+Tyco
+Remove Danfoss completely from the website.
+Keep all product names, references, and descriptions technically accurate.
+Mention all listed products as Available on Demand.
+Images
+Use the product images available in the Excel workbook or the official manufacturer catalogues wherever applicable.
+
+Do not use Google Images for product photographs.
+
+For categories where only one product image is available, use that image and list the remaining available variants underneath.
+
+In addition to product images, include high-quality visuals for:
+
+Industries and sectors we serve
+Authorised brands (using official brand logos)
+Product categories
+Industrial and project applications where relevant
+On the Home Page, prominently feature a selection of products from Sant and Honeywell with their images to immediately showcase our product portfolio.
+
+Content
+Keep the content professional, concise, and technically accurate.
+
+Avoid unnecessary marketing jargon and exaggerated claims.
+
+Position C. Sethia & Co. as a trusted industrial distribution partner with decades of experience and strong relationships with leading manufacturers.
+
+Home Page
+The homepage should include:
+
+Hero section
+Company introduction
+Key statistics (Years of Experience, Clients Served, Authorised Brands, etc.)
+Featured Sant products
+Featured Honeywell products
+Industries we serve
+Authorised Brands
+Why Choose Us
+Strong enquiry call-to-action
+Products Page
+Create a catalogue-style Products page organised by brand.
+
+Each section should include:
+
+Product images
+Product names
+Short technical descriptions
+Available variants (where applicable)
+“Available on Demand”
+Solutions Page
+Showcase the industries we serve using relevant imagery and concise descriptions.
+
+Include sectors such as:
+
+Industrial Facilities
+Factories
+Hospitals & Healthcare
+Commercial Buildings
+Residential Projects
+EPC Contractors
+MEP Consultants
+Infrastructure Projects
+Brands Page
+Display all authorised brands using their official logos along with a brief overview of the products supplied by each brand.
+
+Contact Page
+Include a professional enquiry form with the following fields:
+
+Name
+Company
+Phone
+Email
+Project Type
+Products Required
+Message
+Display the following company information:
+
+C. Sethia & Co.
+
+Contact Person: Siddharth Sethia
+
+Phone:
+
++91 7003251089
++91 9831086968
+Address:
+40, Strand Road
+Model House, Ground Floor
+Suite 76-77
+Kolkata – 700001
+
+GSTIN: 19ALAPS8336E1ZW
+
+MSME Registration Number: UDYAMWB100005622
+
+Email:
+
+c.sethia@yahoo.co.in
+siddharth@csethia.com
+Website:
+www.csethia.com
+
+Final Expectations
+The finished website should:
+
+Present the complete website in one go.
+Look premium, trustworthy, and well-established.
+Reflect more than 80 years of industry experience.
+Showcase our products, brands, and industries through high-quality imagery.
+Follow a logical industrial catalogue-style flow inspired by Triton Process Automation while maintaining a unique identity.
+Ensure all technical information, product details, and brand references are accurate.
