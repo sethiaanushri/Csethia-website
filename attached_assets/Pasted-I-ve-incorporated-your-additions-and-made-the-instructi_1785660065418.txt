@@ -1,0 +1,120 @@
+I’ve incorporated your additions and made the instructions more explicit so there’s no ambiguity.
+
+Website Revision Instructions – C. Sethia & Co.
+
+Please implement the following changes across the website carefully. Ensure all product names, images, and brand assets are accurate and of high quality.
+
+1. Resistoflex Section
+
+Remove all the currently uploaded products and replace them with the following products using the correct product names and exact product images.
+
+* Single Arch Rubber Expansion Joint with Retaining Ring & Control Unit
+* Single Arch Rubber Expansion Joint with Control Unit
+* Double Arch Rubber Expansion Joint
+* Flexible Rubber Connector with Standard Union Ends
+* Flexible Rubber Connector with Flanged Union Ends
+* Metal Expansion Joint with Control Unit
+* Cup Mount Type CT
+* Fleximount Rubber Isolator
+* Open Restrained Spring
+* Open Spring Mount
+* Housed Spring Mounting
+* Stabiflex Vibration & Shock Isolator Type
+* Open Spring Unit Mount (OSU)
+* Buffers
+* Resilient Hanger
+* Rubber Pads & Mats
+
+Reference sheet for products and images:
+https://docs.google.com/spreadsheets/d/1AmssbN5kEk8rRpsZUBffF6EVTf0gQfjv/edit?usp=drivesdk&ouid=102943184971373955239&rtpof=true&sd=true
+
+At the end of the Resistoflex product section, add the following note:
+
+Other products available on demand.
+
+⸻
+
+2. Add Sant Air Systems
+
+Create a new brand section for Sant Air Systems.
+
+Upload all the products exactly as listed in the reference sheet, along with their corresponding product images.
+
+Reference sheet:
+https://docs.google.com/spreadsheets/d/1tDCH74XZOhNjZzOebC_Ei7EJG97KCFjD/edit?usp=drivesdk&ouid=102943184971373955239&rtpof=true&sd=true
+
+⸻
+
+3. Honeywell
+
+The current BTU Meter image is incorrect.
+
+Replace it with the correct image provided in the Honeywell Excel sheet.
+
+Additionally, verify the entire Honeywell product section against the Excel sheet. A number of product names and corresponding images are currently incorrect or mismatched.
+
+Please:
+
+* Cross-check every Honeywell product with the provided Excel sheet.
+* Update any incorrect product names and images.
+* Ensure every product displays the correct image.
+* Use the product’s proper commercial name, not its model number or product code.
+* Verify that no Honeywell products from the sheet have been missed.
+
+⸻
+
+4. Product Naming Across All Brands
+
+Currently, many products across the website are displayed using model numbers or product codes instead of their actual product names.
+
+Please review every brand and ensure that:
+
+* Products are labelled using their proper product names.
+* Product codes or model numbers should not be used as the display title.
+* Product names should match the names provided in the respective Excel sheets.
+
+For Sant Air Systems, each product image in the Excel sheet already has the correct product name. Please use those names exactly as provided.
+
+⸻
+
+5. Brand Logos
+
+On both the Home Page and the Brands page where the “Key Partners” section is displayed:
+
+* Replace all existing logos with the latest official brand logos.
+* Use high-resolution versions.
+* Ensure proper sizing, alignment, and spacing for maximum visibility and brand recognition.
+* Maintain each brand’s original colours.
+
+⸻
+
+6. Industries Served
+
+The Infrastructure category currently has a missing image.
+
+Please add an appropriate high-quality image.
+
+⸻
+
+7. Home Page Header
+
+The company logo in the top-left corner appears too small and not visually balanced.
+
+Please:
+
+* Make the logo slightly larger.
+* Improve its positioning so it appears more centered within the header.
+* Ensure it is more prominent while maintaining a clean and professional appearance.
+
+⸻
+
+8. Final Review
+
+Before considering the website complete, perform a full review of every brand page and product section to ensure:
+
+* Every product has the correct image.
+* Every product is labelled with its proper product name.
+* No products are displayed using model numbers or codes as their primary title.
+* All images match their respective products.
+* There are no missing products from the supplied Excel sheets.
+* The website maintains a clean, consistent, and professional appearance throughout.
